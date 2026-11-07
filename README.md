@@ -5,7 +5,6 @@
 ![Django 6.1](https://img.shields.io/badge/Django-6.1-092E20?logo=django&logoColor=white)
 ![Flask 3.1](https://img.shields.io/badge/Flask-3.1-000000?logo=flask&logoColor=white)
 ![Node.js 26 LTS and Express 5](https://img.shields.io/badge/Node.js%2026%20LTS-Express%205-5FA04E?logo=nodedotjs&logoColor=white)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Learn-Back-End-Web-Development?label=updated)](https://github.com/ImmuneMoon/Learn-Back-End-Web-Development/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
