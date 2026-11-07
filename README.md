@@ -12,13 +12,11 @@
 **📄 [Download the PDF](Learn-Back-End-Web-Development.pdf)**
 
 ## 📖 Overview
-**Learn Back-End Web Development** is a plain-language route into the server side of the web: the code that stores data, signs people in, and answers requests from websites and apps. It started as a set of notes written in 2022 and 2023, and has been updated and checked for November 2026. It covers:
+**Learn Back-End Web Development** is a plain-language route into the server side of the web: the code that stores data, signs people in, and answers requests from websites and apps. It covers:
 - the minimum to learn before job hunting: Python, Java, SQL, Flask or Django, and Git and GitHub, with current versions;
 - Node.js with Express as a common alternative, and which languages to learn later;
 - the core ideas every back-end developer needs: HTTP, REST APIs and JSON, databases, sign-in, security, secrets, testing and deployment;
 - a few tools worth knowing: Charm, Postman, `curl` and Docker.
-
-Every version and fact was checked against official sources in November 2026. A Sources section links to each one.
 
 ## ⚠️ Important Notes
 * **You don't have to learn everything here.** Pick one language and one framework, build things with them, and add more later. Taking on too much at once is the most common way to stall.
@@ -46,8 +44,6 @@ This guide works alongside:
 ---
 
 <!-- guide:start -->
-
-*Versions and facts checked in November 2026. They change, so confirm them on each project's site.*
 
 ## Contents
 
@@ -620,8 +616,6 @@ The [CLI Cheat Sheet's Docker section](https://immunemoon.github.io/CLI-Cheat-Sh
 
 ## 16. Sources
 
-Checked against these pages in November 2026.
-
 **Languages and frameworks**
 - [Python downloads and release status](https://www.python.org/downloads/)
 - [OpenJDK: JDK releases](https://openjdk.org/projects/jdk/) and [Oracle Java downloads (JDK 25 LTS)](https://www.oracle.com/java/technologies/downloads/)
@@ -663,7 +657,7 @@ Checked against these pages in November 2026.
 - [Docker: Get started](https://docs.docker.com/get-started/) and [Docker Desktop license agreement](https://docs.docker.com/subscription/desktop-license/)
 - [The official PostgreSQL Docker image](https://hub.docker.com/_/postgres)
 
-**Videos from the original notes** (each video's content checked in November 2026)
+**Videos**
 - Aaron Jack, [Learning Back End? You NEED to know these topics.](https://youtube.com/shorts/uItBmwWt8eo)
 - Supabase, [Open Source Spotlight: Charm.sh](https://www.youtube.com/watch?v=aRgHKofrupU)
 - Frontend Masters (Master.dev), [Polyglot Programming: TypeScript, Go, & Rust by ThePrimeagen | Preview](https://youtu.be/Us2JP01aNFE), and [the full course page](https://frontendmasters.com/courses/typescript-go-rust/)
